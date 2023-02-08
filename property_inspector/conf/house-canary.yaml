@@ -1,0 +1,6 @@
+# Configuration for accessing the HouseCanary Property Details API located at https://api-docs.housecanary.com/?python#property-details
+URL: https://virtserver.swaggerhub.com/jmyatt/housecanary-mock/1.0.0/property-details
+# TODO: store this in a secure secrets management service
+AUTH_TOKEN: AbCdEf123456
+SEPTIC_KEY: result/property/sewer
+SEPTIC_VALUE: septic
